@@ -11,7 +11,7 @@ libraryDependencies += filters
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.1" % Test
 
 libraryDependencies ++= {
-  val ngVersion="4.0.0-beta.4"
+  val ngVersion="2.2.0"
   Seq(
     cache,
 
